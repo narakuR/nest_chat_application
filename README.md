@@ -176,3 +176,6 @@ pnpm build
 - **错误处理**：前端对 SSE 错误、网络错误做更友好的提示  
 - **部署**：将前后端分别部署到云服务，并接入 HTTPS 与域名
 
+# LICENSE
+
+MIT License - [LICENSE](LICENSE).
